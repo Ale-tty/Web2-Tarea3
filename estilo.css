@@ -1,0 +1,59 @@
+.margen{
+    margin:  -5px;
+    padding: -5px;
+}
+
+.tamañoTabla{
+    width:100%; 
+    height:10%;    
+}
+
+.tamañoTablas{
+    width:100%; 
+    height:5%;
+}
+
+.blanco{
+    background-color: white;
+}
+.violeta{
+    background-color: blueviolet;
+}
+
+.amarillo{
+    background-color:yellow;
+}
+
+.verdeClaro{
+    background-color: chartreuse;
+}
+
+.verde{
+    
+    background-color:#1abc9c; 
+}
+
+.rojo{
+    background-color:red;
+}
+
+.azul{
+    background-color:aqua;
+}
+
+.letraBlanca{
+    color:white;
+}
+
+.tamañoLetra{
+    font-size:2em;
+}
+
+.bordeGris{
+     border:10px outset #566573;
+}
+
+.bordeNegro
+{
+    border:1px solid  black;    
+}
